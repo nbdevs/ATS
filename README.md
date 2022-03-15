@@ -12,3 +12,11 @@ Machine learning models have become too complex as a result of closely following
 
 This project utilises machine learning concepts written in Python via the machine learning platoform sklearn. Metaheuristic algorithm **Particle Swarm Optimisation** (PSO) was developed in order to enhance the classification accuracy of the baseline machine learning model - **Random Forest**. The program also has further functionality as a filesystem which the manages the results of user testing by providing two distinct user views of the system with different abilities granted to each type of user.
 
+---
+## Set Up
+
+--
+
+## Requirements
+
+
