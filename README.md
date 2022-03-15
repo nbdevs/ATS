@@ -6,7 +6,7 @@
 This repository stores the python development for the algorithmic trading system.
 
 ---
-## Excerpt
+## Summary
 
 Machine learning models have become too complex as a result of closely following the entites within the sample set, and so although more observations can be accounted for the overfitting nature means that the model will fail to replicate its performance on an unseen dataset i.e. the real world. On a macrolevel, an investor stands to lose on their portfolio value if this is the case. *Thus a way to **successfully** reduce the inehrent complexity of ML models and thereby improve the potential return of the investors portfolio is key to long term success for investors*.
 
