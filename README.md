@@ -32,12 +32,14 @@ This project utilises:
 
 ---
 ## Environemnt set up (MacOS)
-
 ```
-$ python3 -m venv propject_env                  # create a new python virtual environment
+$ mkdir project_run                             # create a new folder to store the virtual environment
 ```
 ```
-$ source project_env/bin/activate               # activate the virtual environment you have just created
+$ python3 -m venv project_run/project_env       # create a new python virtual environment inside the new folder
+```
+```
+$ source project_run/project_env/bin/activate               # activate the virtual environment you have just created
 ```
 ```
 $ pip install -r requirements.txt               # install the requirements required for the project within the virtual environment
