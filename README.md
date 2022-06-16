@@ -63,3 +63,11 @@ An example of stock symbols and the formats required in the program are listed i
 
 A demonstration of the project in action as well as an overview of the process and commentary on results can be viewed [here](https://drive.google.com/file/d/10a4GH36GuvdEJifNrvaxQ8-XLMe5CELd/view?usp=sharing).
 
+---
+## Set Up
+
+--
+
+## Requirements
+
+
